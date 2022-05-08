@@ -12,7 +12,7 @@ export default function Intro() {
       showCursor: true,
       backDelay: 1500,
       backSpeed: 60,
-      strings: ["Forritun", "Unreal Blueprints", "3D", "Environment Art"],
+      strings: ["Forritun", "Unreal Blueprints", "Þrívídd", "Environment Art"],
     });
   }, []);
 

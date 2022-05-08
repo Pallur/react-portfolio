@@ -1,9 +1,9 @@
 import "./portfolio.scss"
-import { useState } from "react";
+// import { useState } from "react";
 
 export default function Portfolio() {
 
-  const [selected, setSelected] = useState("aduco")
+  // const [selected, setSelected] = useState("aduco")
 
   return (
     <div className="portfolio" id="portfolio">
