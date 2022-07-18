@@ -55,7 +55,7 @@ export default function Portfolio() {
 
         </text>
         <h2>
-          <a href="https://p0llur.itch.io/aduco"> Download now! </a>
+          <a href="https://p0llur.itch.io/aduco" target="_blank" rel="noopener noreferrer"> Download now! </a>
         </h2>
       </div>
       </div>

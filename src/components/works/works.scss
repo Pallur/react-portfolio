@@ -11,4 +11,37 @@
         
     }
 
+    .grid{
+        display: flex;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+       
+    }
+
+    h3{
+        display: flex;
+        justify-content: center;
+        padding-bottom: 5px;
+    }
+
+    .content-text {
+        text-align: center;
+        padding-bottom: 10px;
+    }
+
+    .content-img{
+        text-align: center;
+
+        img{
+            display: inline-block;
+            width: 60%;
+            height: 70%;
+            object-fit: cover;
+            z-index: 1;
+        }
+    }
+
+
+
 }
