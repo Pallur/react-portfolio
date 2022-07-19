@@ -31,6 +31,7 @@
   },
   "scripts": {
     "heroku-postbuild": "npm install",
+    "start-app": "react-scripts start",
     "start": "node ./server/server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
