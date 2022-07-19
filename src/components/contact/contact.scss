@@ -24,14 +24,16 @@
 .cattax{
     display: inline-block;
     text-align: center;
+
+    img{
+        display: inline-block;
+        padding-top: 30px;
+        width: 30%;
+        height: 40%;
+        object-fit: cover;
+        z-index: 1;
+    }
 }
 
-img{
-    display: inline-block;
-    padding-top: 30px;
-    width: 30%;
-    height: 40%;
-    object-fit: cover;
-    z-index: 1;
-}
+
 
