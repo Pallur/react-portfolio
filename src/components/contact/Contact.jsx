@@ -18,7 +18,7 @@ export default function Contact() {
           </h2>
         </div>
         <div className="aboutsite">
-          Website created in Reach with Sass :)
+          Website created in React with Sass :)
         </div>
         <div className="cattax">
           <img 
