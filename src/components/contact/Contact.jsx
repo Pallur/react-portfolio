@@ -20,6 +20,16 @@ export default function Contact() {
         <div className="aboutsite">
           Website created in Reach with Sass :)
         </div>
+        <div className="cattax">
+          <img 
+            src="assets/kata.jpg" 
+            alt="" 
+          />
+          <dir>
+            Cat Tax
+          </dir>
+          
+        </div>
         
       </div>
         
