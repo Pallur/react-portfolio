@@ -22,7 +22,7 @@ export default function Contact() {
         </div>
         <div className="cattax">
           <img 
-            src="assets/kata.jpg" 
+            src="assets/kata.JPG" 
             alt="" 
           />
           <dir>
