@@ -1,24 +1,24 @@
 import "./contact.scss"
-import Pdf from "./pdf/Pall_cv_isl.pdf"
+import Pdf from "./pdf/Pall_cv_eng.pdf"
 
 export default function Contact() {
   return (
     <div className="contact" id="contact">
-      <h1>Hafa samband</h1>
+      <h1>Contact me</h1>
       <div className="contact-info">
         <div className="phone">
-          <h2>Sími: 824 8916</h2>
+          <h2>Phone: 824 8916</h2>
         </div>
         <div className="email">
-          <h2>Netfang: palliasgeir@gmail.com</h2>
+          <h2>Email: palliasgeir@gmail.com</h2>
         </div>
         <div className="resume">
           <h2>
-            <a href= {Pdf} target="_blank" rel="noopener noreferrer"> Ferilskrá </a>
+            <a href= {Pdf} target="_blank" rel="noopener noreferrer"> Resume </a>
           </h2>
         </div>
         <div className="aboutsite">
-          Síða gerð í React með Sass :)
+          Website created in Reach with Sass :)
         </div>
         
       </div>

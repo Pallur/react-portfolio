@@ -1,6 +1,8 @@
 import "./topbar.scss";
 // import {Person, Mail} from "@material-ui/icons"
 import { Person, Mail } from '@mui/icons-material';
+// import { useTranslation } from "react-i18next";
+// import LanguageSelect from "./languageSelect";
 
 export default function Topbar({ menuOpen, setMenuOpen }) {
   return (
@@ -17,6 +19,7 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
               <span>palliasgeir@gmail.com</span>
             </div>
           </div>
+         
           
           <div className="right">
            <div className="hamburger" onClick={()=>setMenuOpen(!menuOpen)}>

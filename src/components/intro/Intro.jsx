@@ -12,7 +12,7 @@ export default function Intro() {
       showCursor: true,
       backDelay: 1500,
       backSpeed: 60,
-      strings: ["Forritun", "Unreal Blueprints", "Þrívídd", "Environment Art"],
+      strings: ["Programming", "Unreal Blueprints", "3D", "Technical Art", "Environment Art"],
     });
   }, []);
 
@@ -25,9 +25,9 @@ export default function Intro() {
       </div>
       <div className="right">
         <div className="wrapper">
-          <h2>Hæ! Ég heiti</h2>
+          <h2>Hello! My name is</h2>
           <h1>Páll</h1>
-          <h3>Ég sérhæfi mig í  <span ref={textRef}></span></h3>
+          <h3>I specialize in <span ref={textRef}></span></h3>
         </div>
 
         

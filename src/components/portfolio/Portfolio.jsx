@@ -49,9 +49,9 @@ export default function Portfolio() {
       </div>
       <div className="textRight">
         <text className="infoText"> 
-        Aduco er tölvuleikur gerður í UE4 sem lokaverkafni í RADE 2022. {"\n"}
-        Leikurinn gerist í illa förnum heimi þar sem vélmenni ráða ríkjum. {"\n"}
-        Spilari þarf að ferðast yfir auðna jörð til að finna bróður sinn. {"\n"}
+        Aduco is a video game made in UE4 as a graduation project from RADE 2022.{"\n"}
+        The player must traverse a wasteland in search for his brother, {"\n"}
+        but be aware there are dangers ahead! {"\n"}
 
         </text>
         <h2>
